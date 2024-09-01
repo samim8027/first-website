@@ -4,7 +4,7 @@
 }
 
 .navigation{
-    /* background-image: linear-gradient(dodgerblue,rgb(1, 66, 131)); */
+    background-image: linear-gradient(dodgerblue,rgb(1, 66, 131));
     display: flex;
     justify-content: space-between;
     align-items: center;
